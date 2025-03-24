@@ -1,18 +1,14 @@
 ## Hi there 👋
 
-<script>
-    function func_1() {
-        document.getElementById("star_counter").innerHTML = 'If not print for seconds, please refresh';
-        github_id = document.getElementById("user").value;
-        document.getElementById("star_counter").innerHTML = cal_github_star(github_id);
-    }
-</script>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuroraZengfh&show_icons=true)  
 
+## 🌱 **My Repositories**
+### Multimodal Models in Open Environments
+- **[Local-Prompt](https://github.com/AuroraZengfh/Local-Prompt)** (ICLR 2025)
 
-Input github id: <input name="user" value="guofei9987" type="text" id="user">
-<input name="Button" type="button" value="Calculate" onClick="func_1()">
-
-<p id="star_counter"></p>
+### Efficient Deep Model/Image Compression and Acceleration
+- **[MambaIC](https://github.com/AuroraZengfh/MambaIC)** (CVPR 2025)
+- **[PPT](https://github.com/xjwu1024/PPT)**
 
 
 <!--
