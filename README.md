@@ -2,12 +2,17 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuroraZengfh&show_icons=true)  
 
+About ME
+
+[Homepage](aurorazengfh.github.io) / [Google Scholar](https://scholar.google.com/citations?user=YSp1cH0AAAAJ&hl=en)
+
 ## 🌱 **My Repositories**
 
 ### Multi-task Learning/Continual Learning in Multimodal Large Language Models
 - **[CoPA-Merging](https://github.com/AuroraZengfh/CoPA-Merging)**
-- **[ModalPrompt](https://github.com/AuroraZengfh/)** 
-- **[HiDe-LLaVA](https://github.com/AuroraZengfh/)** 
+- **[ModalPrompt](https://github.com/AuroraZengfh/ModalPrompt)** 
+- **[HiDe-LLaVA](https://github.com/Ghy0501/)**
+- **[FCIT](https://github.com/Ghy0501/)**
 
 ### Multimodal Models in Open Environments
 - **[Local-Prompt](https://github.com/AuroraZengfh/Local-Prompt)** (ICLR 2025)
@@ -17,11 +22,10 @@
 - **[MambaIC](https://github.com/AuroraZengfh/MambaIC)** (CVPR 2025)
 - **[PPT](https://github.com/xjwu1024/PPT)**
 - **[TR-DQ](https://github.com/AuroraZengfh/)**
+- **[M2M-TAG/ToT](https://github.com/AuroraZengfh/ToT)**(NeurIPS Workshop 2024/)
 
 
 <!--
-**AuroraZengfh/AuroraZengfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
