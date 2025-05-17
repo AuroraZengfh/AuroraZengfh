@@ -11,12 +11,12 @@ About ME
 ### Multi-task Learning/Continual Learning in Multimodal Large Language Models
 - **[CoPA-Merging](https://github.com/AuroraZengfh/CoPA-Merging)**
 - **[ModalPrompt](https://github.com/AuroraZengfh/ModalPrompt)** 
-- **[HiDe-LLaVA](https://github.com/Ghy0501/)**
 - **[FCIT](https://github.com/Ghy0501/)**
 
 ### Multimodal Models in Open Environments
 - **[Local-Prompt](https://github.com/AuroraZengfh/Local-Prompt)** (ICLR 2025)
-- **[CLIPMisD/FSMisD](https://github.com/AuroraZengfh/FSMisD)** (ICONIP 2024/PR 2025)
+- **[HiDe-LLaVA](https://github.com/Ghy0501/)** (ACL 2025 Main)
+- **[CLIPMisD/FSMisD](https://github.com/AuroraZengfh/FSMisD)** (ICONIP 2024/NN 2025)
 
 ### Efficient Deep Model/Image Compression and Acceleration
 - **[MambaIC](https://github.com/AuroraZengfh/MambaIC)** (CVPR 2025)
