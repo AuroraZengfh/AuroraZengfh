@@ -4,6 +4,7 @@ I'm a master student from Institute of Automation, Chinese Academy of Sciences, 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuroraZengfh&show_icons=true)  
 
+<!--
 ## 🌱 **My Repositories**
 
 ### Multi-task Learning/Continual Learning in Multimodal Large Language Models
@@ -24,7 +25,7 @@ I'm a master student from Institute of Automation, Chinese Academy of Sciences, 
 - **[M2M-TAG](https://github.com/AuroraZengfh/TokenTransforming)**(NeurIPS Workshop on Machine Learning and Compression 2024)
 - **[EventVAD: Training-Free Event-Aware Video Anomaly Detection](https://github.com/YihuaJerry/EventVAD)** (ACM MM 2025)
 - **[Token Reduction Should Go Beyond Efficiency in Generative Models – From Vision, Language to Multimodality](https://github.com/ZLKong/awesome-token-compression-reduction)**
-
+-->
 
 <!--
 Here are some ideas to get you started:
