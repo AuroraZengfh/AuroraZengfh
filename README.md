@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a master student from Institute of Automation, Chinese Academy of Sciences, working on Multimodal Large Language Models, Efficient AI and Trustworthy AI. [Here](aurorazengfh.github.io) you can find my research interest, publication and so on. Feel free to contact me!
+I'm a master student from Institute of Automation, Chinese Academy of Sciences, working on MLLMs, Efficient Learning&Postinig Training and Trustworthy AI. [Here](aurorazengfh.github.io) you can find my research interest, publication and so on. Feel free to contact me!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AuroraZengfh&show_icons=true)  
 
