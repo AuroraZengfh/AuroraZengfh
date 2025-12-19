@@ -13,6 +13,7 @@ I'm a master student from Institute of Automation, Chinese Academy of Sciences, 
 - **[TR-DQ: Time-Rotation Diffusion Quantization](https://github.com/YihuaJerry/TR-DQ)** (AAAI 2026)
 - **[EventVAD: Training-Free Event-Aware Video Anomaly Detection](https://github.com/YihuaJerry/EventVAD)** (ACM MM 2025)
 - **[PPT](https://github.com/xjwu1024/PPT)**
+- **[VTCBench](https://github.com/Moenupa/VTCBench)**
 - **[Token Reduction Should Go Beyond Efficiency in Generative Models – From Vision, Language to Multimodality](https://github.com/ZLKong/awesome-token-compression-reduction)**
 
 ### Multi-task Learning/Continual Learning in Multimodal Large Language Models
