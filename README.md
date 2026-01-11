@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a master student from Institute of Automation, Chinese Academy of Sciences, working on MLLMs, Efficient Learning&Postinig Training and Trustworthy AI. [Here](aurorazengfh.github.io) you can find my research interest, publication and so on. Feel free to contact me!
+I'm a master student from Institute of Automation, Chinese Academy of Sciences, working on MLLMs, Efficient Learning&Post Training and Trustworthy AI. [Here](aurorazengfh.github.io) you can find my research interest, publication and so on. Feel free to contact me!
 
 [![AuroraZengfh's GitHub stats](https://github-readme-stats-orpin-eight-73.vercel.app/api?username=AuroraZengfh&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/AuroraZengfh/github-readme-stats)  
 
